@@ -1,0 +1,2 @@
+# smallrice
+personal practice
